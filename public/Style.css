@@ -1,0 +1,67 @@
+/* Home css */
+h1 {
+  color: white;
+}
+body{
+    background-color:white;
+    text-align: center;
+} 
+
+a {
+    color: rgb(133, 64, 64);
+    border: none;
+    margin: 10px;
+    cursor: pointer;
+    font-family: 'Marcellus', serif;
+    font-weight: bold;
+    border-radius: 12px;
+    padding: 10 50px;
+}
+
+a:hover {
+    background-color: darkred;
+    color: black;
+}
+
+.about {
+    background-color: #dcdcdc;
+    border: 1px solid black;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    height: auto;
+    width: 700px;
+    border-radius: 15px;
+}
+
+/* NavBar css */
+
+#NavLogo{
+  float: left;
+  height: 1em;
+  width: auto;
+}
+
+/* charity page css*/
+
+/* Charity Profile css */
+
+/* Charity Login css */
+
+/* CharityEvents  */
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 2px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
